@@ -1,0 +1,33 @@
+/* Colors for Headings */
+
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
+
+/* Changing h2 font-weight */
+.color-title {
+  font-weight: normal;
+}
+
+/* Changing dimensions of the image */
+
+img {
+  width: 200px;
+  height: 200px;
+}
